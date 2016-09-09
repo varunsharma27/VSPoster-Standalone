@@ -1,5 +1,5 @@
 # VSPoster-Standalone
-You can try it live at - http://http://www.premnathdevelopers.com/VSPoster/
+You can try it live at - http://www.premnathdevelopers.com/VSPoster/
 
 This is an Old Social Bookmarking Tool I created back in 2010.
 A lot has changed since then. Do Not expect it to work for most sites, some of the supported sites have been shut down.
