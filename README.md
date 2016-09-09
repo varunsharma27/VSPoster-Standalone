@@ -6,3 +6,5 @@ A lot has changed since then. Do Not expect it to work for most sites, some of t
 Some sites may require minor tinkering to work again.
 The purpose of this is to provide a basic template for people to work on, its better than writing your code from the scratch.
 Feel free to submit any changes to the code.
+
+Installation guidelines in /VSPoster/readme.txt
